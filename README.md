@@ -1,7 +1,7 @@
 ### Hi there, Yusril Izza 👋
 
 Hi, Muhammad Yusril Izza, as a Fullstack Developer who passionate with Javascript Technologies. 
-work much with React and sometime coding at Backend also.
+work much with React Development and sometime coding at Backend also.
 
 - 🔭 I’m currently working on @KlolaIndonesia
 - 🌱 I’m currently learning Backend Development
